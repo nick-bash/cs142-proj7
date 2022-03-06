@@ -1,0 +1,25 @@
+.cs142-loginRegister-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    font-family: inherit;
+  }
+
+.cs142-loginRegister-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;  
+  font-family: inherit;
+}
+
+.cs142-loginRegister-errorText {
+  color: red;
+  font-size: 12px;
+}
+
+.cs142-loginRegister-successText {
+  color: green;
+  font-size: 12px;
+}

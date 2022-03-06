@@ -1,0 +1,17 @@
+.cs142-photo-box {
+    border: rgb(228, 222, 222) 1px solid;
+    margin: 10px;    
+    width: 500px;    
+    padding: 10px;
+}
+
+.cs142-photo {
+    max-width: 100%;
+    height: auto;    
+}
+
+.cs142-comment {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+}
